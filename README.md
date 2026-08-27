@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Meu nome é Luiz
+Aspirante em Programação
 
 <!--
 **Luiz-HenriqueM/Luiz-HenriqueM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
