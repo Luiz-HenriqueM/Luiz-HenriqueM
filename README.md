@@ -21,13 +21,7 @@ Sou estudante do 3º ano do Ensino Médio e estou em busca da minha primeira opo
 - Organização e disciplina
 - Trabalho em equipe
 - Comunicação e responsabilidade
-
-## 💼 Experiência
-
-**Trabalho autônomo com manutenção de aparelhos Sky**
-
-Essa experiência me permitiu desenvolver habilidades como comunicação com clientes, responsabilidade, organização e aplicação do raciocínio lógico na resolução de problemas.
-
+- 
 ## 📖 Formação e cursos
 
 - **Ensino Médio:** 3º ano — Colégio Estadual José de Anchieta.
