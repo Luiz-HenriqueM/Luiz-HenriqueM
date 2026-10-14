@@ -39,4 +39,4 @@ Meu objetivo é evoluir como desenvolvedor, adquirir experiência prática, part
 
 ---
 
-⭐ *Obrigado por visitar meu perfil! Estou sempre aberto a aprender, desenvolver projetos e crescer na área de tecnologia.*
+⭐ *Obrigado por visitar meu perfil!
